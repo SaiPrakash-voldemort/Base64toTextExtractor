@@ -1,6 +1,7 @@
 import express from "express";
 import { PDFParse } from 'pdf-parse';
 import bodyParser from "body-parser";
+// const { PDFParse } = 'pdf-parse';
 import cors from "cors";
 
 const app = express();
